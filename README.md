@@ -1,6 +1,10 @@
 # bell
 `bell` is a simple zsh script (srry bash users, if you can get it working open a PR and I'll take a look) that performs the singular function of playing a sound when a command has finished executing.
 
+
+https://github.com/user-attachments/assets/f1b904d4-470c-46a9-85c8-0e8e04e35de4
+
+
 A simple concept that brings surprising peace of mind to a number of tasks.
 By playing a sound when execution has finished, you can safely turn your focus elsewhere without needing to repeatedly check if its finished executing or not.
 
