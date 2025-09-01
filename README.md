@@ -27,5 +27,6 @@ After that, add something along the lines of `source ~/.config/zsh/bell.zsh` to 
 - If you use alsa
     1. First: What the fuck is wrong with you.
     2. Second: You should be able to figure it out yourself since you are so clever and minimalist (cause I don't have a clue myself).
+- If you are on macOS, use `afplay` (not tested yet)
 
 > Do not touch the completion part that says do not touch it. It is vibe coded and probably hanging on by a thread but it works damnit so leave it be.
